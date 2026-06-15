@@ -4,6 +4,10 @@ A responsive ReactFlow-based dashboard for visualizing and editing application s
 
 This project was built as a frontend take-home assignment using React, TypeScript, ReactFlow, TanStack Query, Zustand, and shadcn/ui.
 
+Links
+GitHub Repository: https://github.com/IRISXe/app-graph-builder
+Live Demo: https://app-graph-builder-eight.vercel.app/
+
 ## Overview
 
 App Graph Builder allows users to select an application, view its service architecture as an interactive graph, select individual service nodes, and edit node configuration from a side inspector panel.
