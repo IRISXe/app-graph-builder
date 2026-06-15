@@ -4,7 +4,7 @@ A responsive ReactFlow-based dashboard for visualizing and editing application s
 
 This project was built as a frontend take-home assignment using React, TypeScript, ReactFlow, TanStack Query, Zustand, and shadcn/ui.
 
-Links
+## Links
 GitHub Repository: https://github.com/IRISXe/app-graph-builder
 Live Demo: https://app-graph-builder-eight.vercel.app/
 
